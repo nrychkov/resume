@@ -127,6 +127,7 @@ color: white;
 }
 
 .work-exp {
+    margin-top: 25px;
     margin-bottom: 25px;
 }
 
@@ -147,4 +148,8 @@ color: white;
 
 .project-item {
     color: #2e313e;
+}
+
+.acu {
+font-weight: 400;
 }
